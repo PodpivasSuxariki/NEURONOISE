@@ -1,0 +1,7 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" fill="#101010"/>
+  <rect x="2" y="2" width="896" height="516" rx="14" stroke="#FAFAFA" stroke-width="2"/>
+  <rect width="900" height="520" fill="url(#g)" opacity="0.55"/>
+  <text x="450" y="270" text-anchor="middle" fill="#D8D8D8" font-size="28" font-family="Courier New,monospace">Место для картинки</text>
+  <defs><radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(450 260) rotate(90) scale(300 470)"><stop stop-color="#272727"/><stop offset="1" stop-color="#050505"/></radialGradient></defs>
+</svg>
